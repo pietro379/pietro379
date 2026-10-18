@@ -15,7 +15,7 @@
 ## 🔭 Şu an
 
 - Bilgisayar Programcılığı mezunuyum; **junior ve staj pozisyonlarına açığım** (Ankara ve uzaktan).
-- Flutter ile çevrimdışı çalışan bir kart cüzdanı, React ve Node.js ile canlıda çalışan bir görev yönetim uygulaması geliştirdim.
+- Flutter ile çevrimdışı çalışan bir kart cüzdanı (Android APK olarak indirilebilir), React ve Node.js ile canlıda çalışan bir görev yönetim uygulaması geliştirdim.
 - Projelerimi testlerle ve sürekli entegrasyonla (GitHub Actions) yayınlamaya çalışıyorum.
 
 ## 🧰 Kullandığım teknolojiler
@@ -39,11 +39,11 @@
 
 | Proje | Ne yapar? | Teknolojiler |
 | --- | --- | --- |
-| [**Taskboard**](https://github.com/pietro379/taskboard) · [canlı demo](https://taskboard-app-red.vercel.app) | Takımlar için görev yönetimi: rollü çalışma alanları, sürükle-bırak pano, yorumlar, etiketler. API ve arayüz testli, CI ile doğrulanır. | Node.js, Express, PostgreSQL, React, Tailwind |
-| [**Kart Cüzdanı**](https://github.com/pietro379/kart-cuzdani) | KVKK uyumlu, tamamen çevrimdışı, şifreli kredi/banka kartı cüzdanı. PIN kilidi, 3B kart çevirme, ağ izni yok. | Flutter, Dart |
-| [**Pet Care**](https://github.com/pietro379/pet-care-app) | Evcil hayvan sağlık takibi ve sosyal ağ: veteriner geçmişi, akış, sohbet, veteriner haritası. | Flutter, Dart |
+| [**Taskboard**](https://github.com/pietro379/taskboard) · [canlı demo](https://taskboard-app-red.vercel.app) | Takımlar için görev yönetimi: rollü çalışma alanları, sürükle-bırak pano, yorumlar, etiketler. 87 otomatik test, CI ile doğrulanır; kayıtsız denemek için README'de demo hesabı var. | Node.js, Express, PostgreSQL, React, Tailwind |
+| [**Kart Cüzdanı**](https://github.com/pietro379/kart-cuzdani) · [APK indir](https://github.com/pietro379/kart-cuzdani/releases/latest) | KVKK uyumlu, tamamen çevrimdışı, şifreli kredi/banka kartı cüzdanı. PIN kilidi, 3B kart çevirme, kart düzenleme; ağ izni yok. | Flutter, Dart |
+| [**Pet Care**](https://github.com/pietro379/pet-care-app) · [APK indir](https://github.com/pietro379/pet-care-app/releases/latest) | Evcil hayvan sağlık takibi ve sosyal ağ: veteriner geçmişi, akış, sohbet, veteriner haritası. | Flutter, Dart |
 | [**Photobooth**](https://github.com/pietro379/retro-photo-booth) · [canlı demo](https://pietro379.github.io/retro-photo-booth/) | Tarayıcıda çalışan retro fotoğraf kabini: 29 kamera efekti, 12 şablon, 7 dışa aktarma biçimi (kodlayıcılar kütüphanesiz yazıldı). | JavaScript, Canvas API |
-| [**tidyfiles**](https://github.com/pietro379/tidyfiles) | Karışık klasörleri türe ve tarihe göre düzenleyen, geri alınabilir komut satırı aracı. Bağımlılık yok, CI ile Windows ve Linux'ta test edilir. | Python |
+| [**tidyfiles**](https://github.com/pietro379/tidyfiles) | Karışık klasörleri türe ve tarihe göre düzenleyen, geri alınabilir komut satırı aracı. Bağımlılık yok, CI ile Windows ve Linux'ta test edilir; README'de animasyonlu demo var. | Python |
 | [**Add To Cart**](https://github.com/pietro379/add-to-cart-project) · [canlı demo](https://pietro379.github.io/add-to-cart-project/) | İndirim kurallarını uygulayan alışveriş sepeti ve fatura uygulaması; tasarım desenleri ve `BigDecimal` ile para hesabı, 42 test. | Java 17, Maven |
 | [**Image Compressor**](https://github.com/pietro379/image-compressor) · [canlı demo](https://pietro379.github.io/image-compressor/) | Görselleri tarayıcıda sıkıştırıp dönüştürür; hiçbir dosya sunucuya gitmez. | JavaScript, Canvas API |
 
